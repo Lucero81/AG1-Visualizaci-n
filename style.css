@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(238, 171, 108);
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
